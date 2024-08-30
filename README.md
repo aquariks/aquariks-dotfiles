@@ -1,10 +1,10 @@
 # aquariks-dotfiles
  Hyprland dotfiles
-OS: arch linux <br>
-WM: hyprland
-Bar: waybar
-Notifications: swaync (w.i.p)
-Wallpaper: waypaper engine
-Launchers: rofi
-Powermenu: wlogout
-Session lock: hyprlock
+1. OS: arch linux
+2. WM: hyprland
+3. Bar: waybar
+4. Notifications: swaync (w.i.p)
+5. Wallpaper: waypaper engine
+6. Launchers: rofi
+7. Powermenu: wlogout
+8. Session lock: hyprlock
