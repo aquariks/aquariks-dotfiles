@@ -8,4 +8,3 @@
 6. Launchers: rofi
 7. Powermenu: wlogout
 8. Session lock: hyprlock
-![Uploading image.png…]()
