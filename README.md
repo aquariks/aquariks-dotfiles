@@ -1,6 +1,6 @@
 # aquariks-dotfiles
  Hyprland dotfiles
-OS: arch linux
+OS: arch linux <br>
 WM: hyprland
 Bar: waybar
 Notifications: swaync (w.i.p)
