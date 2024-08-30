@@ -1,0 +1,2 @@
+# aquariks-dotfiles
+ Hyprland dotfiles
