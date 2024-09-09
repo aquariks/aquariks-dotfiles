@@ -1,5 +1,4 @@
 # aquariks-dotfiles
- ![alt text](https://imgur.com/a/DwUCdMd)
  Hyprland dotfiles
 1. OS: arch linux
 2. WM: hyprland
