@@ -8,3 +8,4 @@
 6. Launchers: rofi
 7. Powermenu: wlogout
 8. Session lock: hyprlock
+![rice](https://github.com/user-attachments/assets/ebf310f2-75dc-4068-b3b2-6830b186a61d)
